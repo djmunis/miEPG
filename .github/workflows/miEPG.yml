@@ -29,12 +29,19 @@ jobs:
     - name: Configurar identidad de Git
       run: |
         git config user.name "GitHub Actions"
-        git config user.email "actions@github.com"
+        git config user.email "actions@
         
-    - name: Subir archivos 
+    - name: Subir archivos
       run: |
+        git config user.name "GitHub Actions"
+        git config user.email "actions@github.com"
         git add .
-        git commit -m "Nuevo miEPG.xml"
-        git push
+        if git diff --cached --quiet; then
+          echo "El EPG no ha cambiado. No hay nada que publicar."
+        else
+          git commit -m "Nuevo miEPG.xml"
+          git push
+        fi
+
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
