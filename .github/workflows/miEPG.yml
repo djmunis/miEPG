@@ -1,9 +1,9 @@
 name: miEPG
 
 on:
-  schedule:
-    - cron: '56 * * * *' # Ejecutar a las 13:30 AM (ten en cuenta el horario verano/invierno)
-      timezone: 'Europe/Madrid'
+  #schedule:
+    #- cron: '56 * * * *' # Ejecutar a las 13:30 AM (ten en cuenta el horario verano/invierno)
+      #timezone: 'Europe/Madrid'
   workflow_dispatch:
 permissions:
    contents: write
