@@ -5,6 +5,7 @@ Cuatro HD,CUATRO HD,https://raw.githubusercontent.com/davidmuma/picons_dobleM/ma
 Telecinco HD,TELECINCO HD,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Telecinco.png,
 La Sexta HD,LA SEXTA HD,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%20Sexta.png,
 M+ Estrenos HD,M+ Cine HD,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Estrenos.png,
+M+ Estrenos HD,M+ Cine,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Estrenos.png,
 M+ Hits HD,M+ HITS HD,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Hits.png,
 M+ Originales HD,M+ Originales HD,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Originales.png,
 M+ Terror,M+ CRACKS,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Terror.png,
