@@ -427,6 +427,7 @@ Sony One Hits Comedia,Sony One Hits Comedia,https://tvpnlogopeu.samsungcloud.tv/
 Sony One Hits Acción,Sony One Hits Acción,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300006QJ_20251111T011921SQUARE.png
 Mr Bean Animated,Mr Bean Animated,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES900001SH_20250923T011557SQUARE.png
 Tennis+,Tennis+,https://provider-static.plex.tv/epg/cms/production/704e7af1-90a0-4ad4-94de-af2559c19fa6/1_Tennis_Plus_Logo__Dark_Mode__1500x1000px.png
+FashionTV,FashionTV,https://provider-static.plex.tv/epg/cms/production/47127441-d5b6-42a3-b641-a7c076d20940/Fashion_PNG_w__transparent_background__All_white_Logo_for_Attribution__-_Yuri_Alexandrov.png
 FANPLAY TV Primera Federación 1,FANPLAY TV Primera Federación 1,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReZW0T1JCPFdWLodj4_Nw43TdFBQ0CSYO4OMUUIW37mw&amp;s=10
 FANPLAY TV Primera Federación 2,FANPLAY TV Primera Federación 2,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReZW0T1JCPFdWLodj4_Nw43TdFBQ0CSYO4OMUUIW37mw&amp;s=10
 FANPLAY TV Primera Federación 3,FANPLAY TV Primera Federación 3,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReZW0T1JCPFdWLodj4_Nw43TdFBQ0CSYO4OMUUIW37mw&amp;s=10
@@ -480,7 +481,7 @@ DAZN Serie A 2,DAZN Serie A 2,https://image.discovery.indazn.com/eu/v4/onboardin
 Sky News International,Sky News International,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sky%20News%20International.png
 Arirang TV HD,Arirang TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Arirang%20TV.png
 1+1 International,1+1 International,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/1%2B1%20International.png
-En Familia (Rakuten TV),En Familia (Rakuten TV),https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/1a67c634-2e6a-442d-9eb8-8f489f2caae5.png
+En Familia (Rakuten TV),En Familia (Rakuten TV),
 Estilo y Vida (Rakuten TV),Estilo y Vida (Rakuten TV),https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/4d1281cf-8f8d-4197-9420-6ac85162e143.png
 Sci-Fi (Rakuten TV),Sci-Fi (Rakuten TV),https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/04ac7530-32fc-45cb-b8f8-7f73f34105e4.png
 Todo Crimen (Rakuten TV),Todo Crimen (Rakuten TV),https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/e058d349-db97-4c0b-a9dd-477147a1d473.png
